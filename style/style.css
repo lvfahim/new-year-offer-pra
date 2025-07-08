@@ -1,17 +1,23 @@
 .newyear{
-    height: 600px;
-    width: 1320px;
-    background-image: url(../images/Banner\ Image.png);
-    background-repeat: no-repeat;
-    margin-left:257px ;
-    margin-right: 250px;
-    margin-top: 50px;
-    padding-top: 135px;
-    padding-left: 75px;
-    padding-bottom: 0px;
-    box-shadow: #070211;
+    margin: 0 auto;
+  background-image: url(../images/Banner\ Image.png);
+  height: 600px;
+  width: 1320px;
+  background-position: center center;
+  background-size: cover;
     
 
+}
+.shado{
+ width: 1320px;
+ height: 600px;
+ background-color: #0702116b;
+ border-radius: 15px;
+ align-items: center;
+ display: flex;
+ justify-content: start;
+ /* align-items: center; */
+ text-align: center;
 }
 .open-sans-normal {
   font-family: "Open Sans", sans-serif;
